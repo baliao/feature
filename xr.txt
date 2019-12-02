@@ -3,3 +3,7 @@ this is new xr file create by xr branch
 add new lines
 
 it is time to close the business day!
+
+modify this file from master and Diag
+
+Yes, I am here
