@@ -9,6 +9,3 @@ add 4th line
 add 5th line
 
 我在first_file.txt 新增一行
-
-
-我在baliao分支上进行修改
